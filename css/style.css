@@ -39,6 +39,7 @@ a{
 
 .table{
     width: 1500px;
+    margin-bottom: 100px;
 }
 
 .title-row{
@@ -51,7 +52,7 @@ a{
 }
 
 .table-row{
-    background: cyan;
+    background: rgb(88, 192, 192);
     width: 500px;
     display: inline-block;
     float: left;
@@ -59,7 +60,7 @@ a{
 }
 
 .table-row1{
-    background: cyan;
+    background: rgb(88, 192, 192);
     width: 500px;
     display: inline-block;
     float: left;
@@ -80,4 +81,36 @@ a{
     display: inline-block;
     float: left;
     height: 60px;
+}
+
+#paragrafo{
+    padding-top: 20px;
+    clear: both;
+}
+
+.footer-text{
+    color: darkgray;
+}
+
+.img-footer1{
+    background: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.img-footer2{
+    margin-top: 10px;
+    background: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 20px;
 }
