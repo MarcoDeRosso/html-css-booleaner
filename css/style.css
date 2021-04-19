@@ -36,3 +36,48 @@ a{
 .list{
     padding:15px;
 }
+
+.table{
+    width: 1500px;
+}
+
+.title-row{
+    background-color: #6495ED;
+    width: 500px;
+    color: white;
+    display: inline-block;
+    float: left;
+    font-weight: bold;
+}
+
+.table-row{
+    background: cyan;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    line-height:60px;
+}
+
+.table-row1{
+    background: cyan;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    height: 60px;
+}
+
+.table-row2{
+    background: white;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    line-height:60px;
+}
+
+.table-row3{
+    background: white;
+    width: 500px;
+    display: inline-block;
+    float: left;
+    height: 60px;
+}
