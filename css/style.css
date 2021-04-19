@@ -28,3 +28,11 @@ a{
 .img-description{
     font-size: 10px;
 }
+
+#important-lorem{
+    background-color: yellow;
+}
+
+.list{
+    padding:15px;
+}
