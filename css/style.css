@@ -1,0 +1,26 @@
+
+header{
+    background: #6495ED url(../img/pattern.png);
+    height: 150px;
+    position: relative;
+}
+
+header > img{
+    max-width: 300px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.article-title{
+    font-size: 30px;
+}
+
+.article-author{
+    color:darkgray;
+    font-size: 15px;
+}
+
+a{
+    color: cornflowerblue;
+    text-decoration: none;
+}
