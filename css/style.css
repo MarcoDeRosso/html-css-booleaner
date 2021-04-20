@@ -2,7 +2,6 @@
 header{
     background: #6495ED url(../img/pattern.png);
     height: 150px;
-    position: relative;
 }
 
 header > img{
