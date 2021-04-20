@@ -13,10 +13,12 @@ header > img{
 .article-title{
     font-size: 30px;
 }
-
-.article-author{
-    color:darkgray;
-    font-size: 15px;
+.article-detail{
+    color: darkgray;
+    font-size: 14px;
+}
+.article-date{
+    font-size: 10px;
 }
 
 a{
