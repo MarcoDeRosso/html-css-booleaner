@@ -90,26 +90,24 @@ a{
 .footer-text{
     color: darkgray;
 }
+.newsfooter{
+    height: 200px;
+    width: 300px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-top: 10px;
+}
 
 .img-footer1{
     background: url(../img/monitor.jpg);
-    height: 200px;
-    width: 300px;
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
-    padding-top: 20px;
-    padding-left: 20px;
+   
 }
 
 .img-footer2{
-    margin-top: 10px;
+
     background: url(../img/graph.jpg);
-    height: 200px;
-    width: 300px;
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
-    padding-top: 20px;
-    padding-left: 20px;
+    
 }
